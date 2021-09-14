@@ -1,6 +1,7 @@
 package com.company;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class Main {
 
@@ -52,6 +53,10 @@ public class Main {
         char letter = alfabetet.charAt(number);
         return letter;
     }
+    public static String decryptNumberCipher(int[] cipher) {
+        
 
+
+    }
 
 }
